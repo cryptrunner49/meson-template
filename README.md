@@ -1,1 +1,1 @@
-# CMake template
+# Meson template
